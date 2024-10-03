@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 
-header {
+.cabecera {
     background-color: #005f73;
     color: white;
     padding: 20px;
@@ -29,4 +29,8 @@ th, td {
 
 tbody tr:nth-child(even) {
     background-color: #e0f7fa;
+}
+
+.hora {
+    color: rgb(55, 220, 52);
 }
